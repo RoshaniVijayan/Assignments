@@ -1,2 +1,1 @@
-# Assignments
-This is week 3 assignements for Python for AI 
+# Weekly assignements for Python for AI 
